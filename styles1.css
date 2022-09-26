@@ -519,6 +519,7 @@ main{
         font-size: 35px;
     }
     #prices p{
+        width: 80%;
         font-size: 20px;
     }
     .container{
