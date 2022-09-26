@@ -611,6 +611,9 @@ main{
     font-size: 24px;
 }
 @media(max-width:960px){
+    body{
+        max-width: 960px;
+    }
     .contacts2 div{
         margin: 0 auto;
         margin: 35px;
@@ -623,6 +626,9 @@ main{
     }
 }
 @media(max-width:375px){
+    body{
+        max-width: 375px;
+    }
     .contacts2 div{
         margin: 0 auto;
         margin: 15px;
