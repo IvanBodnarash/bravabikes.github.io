@@ -512,7 +512,7 @@ main{
     .block-img2{
         margin: 0 auto;
         padding: 0;
-        margin-right: 55px;
+        margin-right: 60px;
         -webkit-box-pack: center;
             -ms-flex-pack: center;
                 justify-content: center;
@@ -809,5 +809,10 @@ main{
     .footer{
         padding: 5px;
         font-size: 10px;
+    }
+}
+@media(max-width:375px){
+    body{
+        width: 375px;
     }
 }
