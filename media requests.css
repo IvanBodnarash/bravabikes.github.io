@@ -34,7 +34,7 @@
         justify-content: center;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     header{
         background-color: white;
         padding-top: 5px;
@@ -88,7 +88,7 @@
         flex-direction: column;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     #home{
         /* justify-content: center; */
     }
@@ -159,7 +159,7 @@
         width: 80%;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     .block-img2{
         margin: 0 auto;
         padding: 0;
@@ -168,7 +168,7 @@
         width: 300px;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     .about-us-section h1{
         margin: 0 auto;
         font-size: 30px;
@@ -188,7 +188,7 @@
         font-size: 18px;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     #prices h1{
         padding-top: 20px;
         font-size: 35px;
@@ -262,9 +262,9 @@
         height: auto;
     }
 }
-@media(max-width:600px){
+@media(max-width:500px){
     body{
-        max-width: 600px;
+        max-width: 500px;
     }
     .contacts2 div{
         margin: 0 auto;
