@@ -367,7 +367,7 @@ main{
     text-align: center;
     font-size: 24px;
 }
-@media(max-width:375px){
+@media(max-width:480px){
     .block-img{
         margin: 0 auto;
         justify-items: center;
@@ -403,7 +403,7 @@ main{
         justify-content: center;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     header{
         background-color: white;
         padding-top: 5px;
@@ -457,7 +457,7 @@ main{
         flex-direction: column;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     #home{
         /* justify-content: center; */
     }
@@ -528,7 +528,7 @@ main{
         width: 80%;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     .block-img2{
         margin: 0 auto;
         padding: 0;
@@ -537,7 +537,7 @@ main{
         width: 300px;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     .about-us-section h1{
         margin: 0 auto;
         font-size: 30px;
@@ -557,7 +557,7 @@ main{
         font-size: 18px;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     #prices h1{
         padding-top: 20px;
         font-size: 35px;
@@ -631,9 +631,9 @@ main{
         height: auto;
     }
 }
-@media(max-width:375px){
+@media(max-width:480px){
     body{
-        max-width: 375px;
+        max-width: 480px;
     }
     .contacts2 div{
         margin: 0 auto;
